@@ -1,6 +1,6 @@
 # SE-Individual-Project
 
-V0.1
+v0.1
 
 This will be the term project of Dominic Oertel for Software Engineering, Spring 2021, Towson University.
 
