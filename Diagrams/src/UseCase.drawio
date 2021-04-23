@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T11:59:31.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="BrGsPynkrBR76U0SxFRo" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T12:01:17.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="SQ7mQJ66N2VKUO4XgxQa" version="14.6.6" type="github">
   <diagram id="k15lIdcZfTVR9k88Zq7R" name="Page-1">
     <mxGraphModel dx="780" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="DpSMH4ZrSnGTVI7KbrJz-23" value="other user sends message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DpSMH4ZrSnGTVI7KbrJz-24" value="" style="endArrow=none;dashed=1;html=1;exitX=0.792;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.267;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DpSMH4ZrSnGTVI7KbrJz-11" target="DpSMH4ZrSnGTVI7KbrJz-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
