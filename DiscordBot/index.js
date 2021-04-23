@@ -27,24 +27,6 @@ client.on("message", function(message) {
             if (error) throw err; 
         }) 
       });
-
-    const url = message.attachments.first().url;
-        //message.channel.send(url);
-
-        // import fs module in which writeFile function is defined. 
-    const fsLibrary  = require('fs') 
-  
-        // Data which will need to add in a file. 
-    let data = url;
-  
-        // Write data in 'newfile.txt' . 
-    fsLibrary.writeFile('C:/Users/Dominic/PycharmProjects/Domert/url.txt', data, (error) => { 
-      
-            // In case of a error throw err exception. 
-        if (error) throw err; 
-    }) 
-
-
 });                                      
 
 client.login(config.BOT_TOKEN);
