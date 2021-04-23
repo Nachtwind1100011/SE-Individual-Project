@@ -74,3 +74,5 @@ class CC20:
 
         else:
             print("invalid mode")
+
+# b'x|\xb5\x85\x81\xeb\x93\x13?#c$\x06'
