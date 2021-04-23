@@ -1,0 +1,2 @@
+Follow steps 1 and 2 in this link:
+https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
