@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T03:35:18.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="FKBglsVyUIcbhh0LRyFV" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T03:47:32.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="mPr9ngf9J5wSmee_gPgO" version="14.6.6" type="github">
   <diagram id="DsG7GBW_Sd_czjrht_uw" name="Page-1">
-    <mxGraphModel dx="780" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,51 +17,89 @@
         <mxCell id="SeSrKvr7TrBD1pJKTeas-5" value="Messenger Python Program" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SeSrKvr7TrBD1pJKTeas-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="590" as="sourcePoint" />
-            <mxPoint x="280" y="525" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-8" value="Discord Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="450" width="120" height="70" as="geometry" />
+          <mxGeometry x="470" y="450" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-9" value="Webhook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="40" height="20" as="geometry" />
+          <mxGeometry x="430" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-10" value="User Device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SeSrKvr7TrBD1pJKTeas-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.5" y="445" as="sourcePoint" />
-            <mxPoint x="279.5" y="380" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="470" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-12" value="Bot program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="580" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-14" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="480" width="30" height="60" as="geometry" />
+          <mxGeometry x="55" y="300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="69" y="470" as="sourcePoint" />
-            <mxPoint x="69" y="380" as="targetPoint" />
+            <mxPoint x="90" y="330" as="sourcePoint" />
+            <mxPoint x="210" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-16" value="Messenger Python Program" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SeSrKvr7TrBD1pJKTeas-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="330" as="sourcePoint" />
-            <mxPoint x="140" y="330" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="220" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SeSrKvr7TrBD1pJKTeas-18" value="Python filereader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-19" value="User Device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="460" y="329.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="640" as="sourcePoint" />
+            <mxPoint x="460" y="639.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-22" value="Python filereader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-23" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="590" as="sourcePoint" />
+            <mxPoint x="500" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-24" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="sourcePoint" />
+            <mxPoint x="550" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-25" value="Webhook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-26" value="Bot program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-27" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="440" as="sourcePoint" />
+            <mxPoint x="505" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSrKvr7TrBD1pJKTeas-28" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="380" as="sourcePoint" />
+            <mxPoint x="555" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
