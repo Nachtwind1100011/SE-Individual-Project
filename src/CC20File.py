@@ -17,7 +17,8 @@ def keyEstablish():
         A = pow(2, a, p)
         print("Send the following full integer to your correspondent: " + str(A))
         B = int(input("Enter the large integer your correspondent has sent in return: "))
-        key = str(pow(a, B, p))
+        key = str(pow(B, a, p))
+        print(str(key))
         key = bytes(key.encode())
         key = key[:32]
         return key
@@ -32,7 +33,7 @@ def keyEstablish():
 
 class CC20:
     filename = "test.bin"
-    hook = Webhook("https://discord.com/api/webhooks/832344394353868851/wuwPtKav47iFMY0mWU-PysY1pXnjRZEOVS5vUnIX8WGTylptuQyGyXLWjJXOfiWa0ne9")
+    hook = Webhook("https://discord.com/api/webhooks/838280445740843060/IghteonqZm7-ekMK9HMdazzL0BWSTuJaOqf9jYVzq-5lBF71uW17iDBpvydsbtHTdxij")
     key = keyEstablish()
 
     nonce = b'11111111'
